@@ -2,4 +2,5 @@
 
 Re-creation of clowns/bears from Chef Fundamentals
 
-foo
+test_syntax
+more changes
